@@ -1,0 +1,13 @@
+# Keil uVision
+*.obj
+*.o
+*.lst
+*.map
+*.bak
+*.dep
+*.uvgui.*
+*.uvoptx
+*.uvprojx
+Objects/
+Listings/
+*.tmp
